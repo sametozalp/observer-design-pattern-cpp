@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Parent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Parent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Termometer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Termometer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Termometer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Termometer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Observable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Observable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|C:\\Users\\Samet\\Desktop\\observer\\observer\\Observable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFA6DE0-5897-4C40-9E9D-8B2C03394C87}|observer\\observer.vcxproj|solutionrelative:observer\\Observable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +52,100 @@
               "RelativeDocumentMoniker": "observer\\Main.cpp",
               "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Main.cpp",
               "RelativeToolTip": "observer\\Main.cpp",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEwAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-15T14:38:13.349Z",
+              "WhenOpened": "2024-08-15T15:00:03.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Termometer.cpp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Termometer.cpp",
+              "RelativeDocumentMoniker": "observer\\Termometer.cpp",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Termometer.cpp",
+              "RelativeToolTip": "observer\\Termometer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T14:59:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Termometer.h",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Termometer.h",
+              "RelativeDocumentMoniker": "observer\\Termometer.h",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Termometer.h",
+              "RelativeToolTip": "observer\\Termometer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T14:59:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Observable.cpp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Observable.cpp",
+              "RelativeDocumentMoniker": "observer\\Observable.cpp",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Observable.cpp",
+              "RelativeToolTip": "observer\\Observable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T14:59:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Observable.h",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Observable.h",
+              "RelativeDocumentMoniker": "observer\\Observable.h",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Observable.h",
+              "RelativeToolTip": "observer\\Observable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T14:58:10.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Observer.h",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Observer.h",
+              "RelativeDocumentMoniker": "observer\\Observer.h",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Observer.h",
+              "RelativeToolTip": "observer\\Observer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T14:57:57.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parent.h",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Parent.h",
+              "RelativeDocumentMoniker": "observer\\Parent.h",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Parent.h",
+              "RelativeToolTip": "observer\\Parent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T14:56:37.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parent.cpp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Parent.cpp",
+              "RelativeDocumentMoniker": "observer\\Parent.cpp",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\observer\\observer\\Parent.cpp",
+              "RelativeToolTip": "observer\\Parent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T14:56:36.325Z",
               "EditorCaption": ""
             }
           ]
